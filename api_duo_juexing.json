@@ -1,0 +1,7 @@
+//此多仓接口列表为公众号【多多影音】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+{
+"storeHouse": [
+{"sourceName":"📢欧歌单仓🌏","sourceUrl":"https://欧歌.v.nxog.top/nxog/ou1.php"},
+{"sourceName":"💫潇然多仓🌏","sourceUrl":"https://gitee.com/xiaoranmuze/json/raw/master/api_dan_xiaoran.json"},
+{"sourceName":"💫觉醒多仓🌏","sourceUrl":"https://gitee.com/xiaoranmuze/json/raw/master/api_dan_juexing.json"},
+{"sourceName":"🐷多多仓库🌏","sourceUrl":"https://gitee.com/xiaoranmuze/json/raw/master/api_local.json"}]}

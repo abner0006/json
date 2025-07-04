@@ -1,0 +1,15 @@
+//此多仓接口列表为公众号【多多影音】作者潇然为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+{
+"storeHouse": [
+{"sourceName":"📢欧歌单仓","sourceUrl":"https://欧歌.v.nxog.top/nxog/ou1.php"},
+{"sourceName":"💫潇然多仓","sourceUrl":"https://gitee.com/xiaoranmuze/json/raw/master/api_dan_xiaoran.json"},
+{"sourceName":"💫觉醒多仓","sourceUrl":"https://gitee.com/xiaoranmuze/json/raw/master/api_dan_juexing.json"},
+{"sourceName":"🐷多多仓库","sourceUrl":"https://gitee.com/xiaoranmuze/json/raw/master/api_local.json"},
+{"sourceName":"🍇潇然多仓.","sourceUrl":"clan://localhost/tvboxqq/abner/api_dan_xiaoran.json"},
+{"sourceName":"🍊觉醒多仓.","sourceUrl":"clan://localhost/tvboxqq/abner/api_dan_juexing.json"},
+{"sourceName":"🐷多多仓库.","sourceUrl":"clan://localhost/tvboxqq/abner/api_local.json"},
+{"sourceName":"🦋奇奇仓库.","sourceUrl":"clan://localhost/tvboxqq/index.txt"},
+{"sourceName":"📦宝盒仓库.","sourceUrl":"clan://localhost/tvboxBH/本地仓.txt"},
+{"sourceName":"🏝潇洒仓库.","sourceUrl":"clan://localhost/TVBoxOSC/本地仓/本地仓.txt"},
+{"sourceName":"🐲神州仓库.","sourceUrl":"clan://localhost/6758/本地仓库.json"},
+{"sourceName":"🏝潇洒仓库a.","sourceUrl":"clan://localhost/TVBox/dc.txt"}]}
